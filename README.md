@@ -62,6 +62,9 @@ This image shows the charging profiles of the evs. The optimization flattens the
 
 This image can be compared with the previous one to show how the optimization prologues the charging so some energy is paid on normal pricing and not peak pricing. 
 
+
+The idea behind this implementation is that the schedule of the evs are calculated everyday after they arrive back at the charging facility. Harder constriants must be imposed to accelerate the chrging to a few hours so they leave the facility as soon as possible. Once they arrive back at a certain hour, their new schedules are calculated based on the amount of usage of the day and their current state of charge.
+
 ---
 
 ### Challenge 2: Flex energy in portfolio
