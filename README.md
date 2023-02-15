@@ -1,7 +1,9 @@
 # Power and Energy Optimization Challenges
-Challenge code for TOU, Demand Charges and Day-Ahead Energy Bidding Optimization. This project has two main `src` folders, one is `model` and the other one is `interfaces`. 
-The `model` has the optimization models for the three challenges, the `core` class is used as a `base` class for `time series` and `scalar` variables.
-The `interface` folder has interfaces to easily access the models and solvers. A third folder, `notebooks`, has Jupyter Notebooks that show how models are run for the applications.
+
+---
+### Challenge code for TOU, Demand Charges and Day-Ahead Energy Bidding Optimization. This project has two main `src` folders, one is `model` and the other one is `interfaces`. 
+### The `model` has the optimization models for the three challenges, the `core` class is used as a `base` class for `time series` and `scalar` variables.
+### The `interface` folder has interfaces to easily access the models and solvers. A third folder, `notebooks`, has Jupyter Notebooks that show how models are run for the applications.
 ---
 
 ### Challenge 1: EV Fleet Optimization 
