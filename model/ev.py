@@ -1,6 +1,5 @@
 from __future__ import annotations
 import cvxpy as cvx
-import numpy as np
 from model.core import CoreTimeSeries
 
 
