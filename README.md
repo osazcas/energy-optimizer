@@ -103,7 +103,7 @@ result considering a 5% margin of error for the load and solar forecasts. The fo
 ### Challenge 3: Demand Charge Management Optimization
 
 On this challenge, an enhanced `EnhancedBattery` model is utilized. The `EnhancedBattery` has the following parameters:
-- Rated energy or capacity of Ev in kWh.
+- Rated energy or capacity of Battery in kWh.
 - Rated power or maximum charging power in kW.
 - Charging efficiency.
 - Discharging efficiency.
